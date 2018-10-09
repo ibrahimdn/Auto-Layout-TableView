@@ -1,5 +1,3 @@
-# Auto-Layout-TableView
+# Basic Auto-Layout-TableView
 Use to FrameWork SnapKit
-TableView
-UILabel
-UIImage
+TableView, UILabel, UIImage
