@@ -1,0 +1,6 @@
+framework module Pods_autoLayoutTableView {
+  umbrella header "Pods-autoLayoutTableView-umbrella.h"
+
+  export *
+  module * { export * }
+}
